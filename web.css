@@ -1,0 +1,88 @@
+
+.cardd {
+  padding-top: 65px;
+}
+
+.contact {
+  padding-top: 85px;
+}
+
+.contact h2{
+  color: rgb(131, 0, 253);
+}
+
+.btn{
+  background:rgb(131, 0, 253);
+  color: white;
+}
+
+.active {
+  color: rgb(131, 0, 253);
+  content: '';
+  display: block;
+  border-bottom: 2px solid rgb(131, 0, 253);
+  padding-bottom: 21px;
+  margin-bottom: -20px;
+}
+
+.iconnavbar {
+  font-family: 'Nasa', sans-serif;
+  font-size: 25px;
+}
+
+.nav-link {
+  text-transform: uppercase;
+  margin-right: 10px;
+}
+
+.jumbotron {
+  padding-top: 60px;
+  background-size: auto 620px;
+  background-image: url(landingpage1.jpg);
+  background-repeat: no-repeat;
+  background-position: right top;
+  height: 620px;
+}
+
+.slogan {
+  margin-top: 180px;
+  font-family: 'Roboto', sans-serif;
+  color: rgb(0, 107, 194);
+  text-shadow: 1px 1px 1px rgb(70, 70, 70);
+}
+
+.tombol {
+  text-transform: uppercase;
+  border-radius: 40px;
+  margin-top: 40px;
+  margin-left: 250px;
+  
+}
+
+.about{
+  padding-top: 70px;
+}
+
+.about img{
+  width: 530px;
+}
+
+.about h6{
+  color: blueviolet;
+  margin-top: 70px;
+}
+
+.about h2 {
+  margin-top: 17px;
+
+}
+
+.garis{
+  border-bottom: 2px solid rgb(131, 0, 253);
+  padding-bottom: 18px;
+  width: 15%;
+}
+
+.about p {
+  margin-top: 20px;
+}
